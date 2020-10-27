@@ -22,7 +22,7 @@
 **Languages and Tools:** 
 <p>
   <a href="https://github.com/djilanov@gmail.com">
-    <img width="55%" align="right" alt="Valeri's github stats" src="https://github-readme-stats.vercel.app/api?username=djilanov&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="DJilanov's github stats" src="https://github-readme-stats.vercel.app/api?username=djilanov&show_icons=true&hide_border=true" />
   </a>
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -46,10 +46,10 @@
 </p>
 
 <!--<p align="center">
-  <a href="https://github.com/ValeriMladenov/Faibler-Frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValeriMladenov&repo=Faibler-Frontend" />
+  <a href="https://github.com/DJilanov/Faibler-Frontend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DJilanov&repo=-Frontend" />
   </a>
-  <a href="https://github.com/ValeriMladenov/Faibler-Backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ValeriMladenov&repo=Faibler-Backend" />
+  <a href="https://github.com/DJilanov/Faibler-Backend">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DJilanov&repo=-Backend" />
   </a>
 </p>-->
