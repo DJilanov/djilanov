@@ -13,7 +13,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [УЧА.live](http://www.ucha.live);
-- 🌱 I’m currently playing with Glutter;
+- 🌱 I’m currently playing with Flutter;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have 3 successful businesses;
 - 📫 How to reach me: djilanov@gmail.com;
