@@ -30,7 +30,7 @@
   <br />
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
   <code><img width="10%" height="50px" src="https://www.gohary.io/images/blog/blog_post_5.png"></code>
-  <code><img width="10%" src="https://pbs.twimg.com/profile_images/555458943149821952/_fBe-iYT.jpeg"></code>
+  <code><img width="10%" height="50px" src="https://pbs.twimg.com/profile_images/555458943149821952/_fBe-iYT.jpeg"></code>
   <br />
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
