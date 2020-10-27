@@ -8,7 +8,7 @@
 [![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:djilanov@gmail.com)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fvaleri.ml)](https://dimitar.jilanov.com)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/ValeriMladenov/ValeriMladenov/87110469441a6ad2f4369de348900faabc4ff63a/githeader.svg" />
+<img width="55%" align="right" alt="Github" src="https://img.freepik.com/free-photo/programming-code-abstract-technology-background-software-developer-computer-script_34663-31.jpg?size=626&ext=jpg" />
 
 **Talking about Personal Stuffs:**
 
