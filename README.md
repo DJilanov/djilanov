@@ -17,7 +17,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have 3 successful businesses;
 - 📫 How to reach me: djilanov@gmail.com;
-- 👯 I’m looking to collaborate on couple of project 🤝
+- 👯 I’m looking to collaborate on couple of project
 
 **Languages and Tools:** 
 <p>
