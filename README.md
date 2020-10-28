@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DJilanov)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitur-jilanov/)
 [![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:djilanov@gmail.com)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvaleri.ml)](https://dimitar.jilanov.com)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvaleri.ml)](http://dimitar.jilanov.com/)
 
 <img width="55%" align="right" alt="Github" src="https://img.freepik.com/free-photo/programming-code-abstract-technology-background-software-developer-computer-script_34663-31.jpg?size=626&ext=jpg" />
 
