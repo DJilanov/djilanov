@@ -29,7 +29,7 @@
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <br />
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-  <code><img width="10%" height="50px" src="https://www.gohary.io/images/blog/blog_post_5.png"></code>
+  <code><img width="10%" height="50px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fawesomeopensource.com%2Fproject%2Fkristerkari%2Freact-native-svg-transformer&psig=AOvVaw0vIZ-6hmXRQ7wkjblgJnf4&ust=1607624347389000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiv9sLBwe0CFQAAAAAdAAAAABAD"></code>
   <code><img width="10%" height="50px" style="object-fit: contain;" src="https://pbs.twimg.com/profile_images/555458943149821952/_fBe-iYT.jpeg"></code>
   <br />
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
