@@ -28,9 +28,9 @@
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
   <br />
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-  <code><img width="10%" height="50px" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
-  <code><img width="10%" height="50px" style="object-fit: contain;" src="https://pbs.twimg.com/profile_images/555458943149821952/_fBe-iYT.jpeg"></code>
+  <code><img width="10%" height="80px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
+  <code><img width="10%" height="80px" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
+  <code><img width="10%" height="80px" style="object-fit: contain;" src="https://pbs.twimg.com/profile_images/555458943149821952/_fBe-iYT.jpeg"></code>
   <br />
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
