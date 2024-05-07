@@ -1,55 +1,190 @@
-
+<!--suppress HtmlDeprecatedAttribute -->
+# Hello! 👋 Who am I? #
 ## Hi, I'm Dimitar Jilanov, a Developer 🚀 from Bulgaria.
+<div>
+<br/>
+- 🔭 Full-stack developer with 14+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
+- 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and Java<br/>
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
+- 😍 Developed some AI Apps and integrated with web and ChatGPT.
+- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+
+</div>
+
+# Main Skills #
+
+
+<a href="https://developer.android.com/reference"><img src="./assets/android-plain.svg" alt="android" height="100" title="Android reference"></a>
+<a href="https://https://ios.cfw.guide/"><img src="./assets/ios.svg" alt="ios" height="100" title="iOS reference"></a>
+<a href="https://reactnative.dev/docs/getting-started"><img src="./assets/react-native.svg" alt="react-native" height="100" title="React-Native documentation"></a>
+<a href="https://kotlinlang.org/docs/home.html"><img src="./assets/kotlin-original.svg" alt="kotlin" height="100" title="Kotlin documentation"></a>
+<a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
+<a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
+<a href="https://angular.io/start"><img src="./assets/angular.svg" alt="angular" height="100" title="Angular documentation"></a>
+<a href="https://nodejs.org/en/docs/guides"><img src="./assets/node.svg" alt="node" height="100" title="Node documentation"></a>
+<a href="https://www.php.net/manual/en/index.php"><img src="./assets/php.png" alt="php" height="100" title="PHP documentation"></a>
+<a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
+<a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
+<a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
+
+
+# 💻 My favorite tools and technologies
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
+</table>
+<br><br>
+
+
+</div>
+
+
+<p align="center">
+
+<a href="https://github.com/djilanov?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=djilanov&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@djilanov's github-readme-stats"/></a>
+<a href="https://github.com/djilanov?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=djilanov&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@djilanov's github-readme-streak-stats"/></a>
+
+</p>
+
+
+<a href="https://rextester.com/l/kotlin_online_compiler"><img src="./assets/colored.png"  width="100%" alt="kotlin_online_compiler"/></a>
+
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@djilanov">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=djilanov&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+
+<p align="center">
+<a href="https://github.com/djilanov?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=djilanov&theme=onestar&no-frame=true&column=3&row=2"  width="100%" alt="@djilanov's trophy stats"/></a>
+</p>
 
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DJilanov)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitur-jilanov/)
-[![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:djilanov@gmail.com)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvaleri.ml)](http://dimitar.jilanov.com/)
 
-<img width="55%" align="right" alt="Github" src="https://img.freepik.com/free-photo/programming-code-abstract-technology-background-software-developer-computer-script_34663-31.jpg?size=626&ext=jpg" />
+# Reach out to me #
 
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on [УЧА.live](http://www.ucha.live);
 - 🌱 I’m currently playing with Flutter;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have 3 successful businesses;
 - 📫 How to reach me: djilanov@gmail.com;
 - 👯 I’m looking to collaborate on couple of project
-
-**Languages and Tools:** 
-<p>
-  <a href="https://github.com/djilanov@gmail.com">
-    <img width="55%" align="right" alt="DJilanov's github stats" src="https://github-readme-stats.vercel.app/api?username=djilanov&show_icons=true&hide_border=true" />
-  </a>
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" height="80px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-  <code><img width="10%" height="80px" src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png"></code>
-  <code><img width="10%" height="80px" style="object-fit: contain;" src="data:image/png;base64,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AUkRiotkWzz23xv1qhR9WJTheu3KBzyCFFfVVFEwEftOrirIHkqEq2t8telV2Tv66QWreQ7Tq6k9NscX/UKBx/6KZgPv+PLJX9ldo155iSu6rhqld3v0yveFK3+J2z7E6NM/M//85ZVXXflece/xRjnPvPP9MfpHfXdH3h/fFyftH/F6AnDlxFHzLEv7n0esJ9D6q1ZnOWqe9cL+X/f6K6xerY19sns89pGitrFetbj86/v6mMy58mBzedX3/uMhY6xYvByD6wjjNIMrL9e95CL51tWThnOFzE9Yc73Z9jhcB86b2HPQxRzP+35cyHyO1/wXNjeO1zxduZD5r4D5QoQrJ3jN053rCPOYmF451jEczOU3H42ucbjyfjcux3z0EbhI5qh5vLjk/H3QeodjTShry/vd1zvC1occXHmO1zzduBKDK2A9zbmG1pL3O6+nBa4/uriq2McH4c1cRlq9Cl6vdXK11Dwd1msvz+X69th/fdvN5ar3m7ns9e2w/QANXPmuoebx2Q8Qsn+igasx9j33T3jvN2niItmPm6v7fpOg/TmNXKS4Q4aczLrvzwnbz9TMRYgr9hv2M03q+5nC9n+1cOWlI+8j323c/+W7X65NL0fN032/XOD+wjYuvObx2F8YuB+zlYtkHxaW737MgP2r7VzWWHfsuX81aL9vB656ve+939drf7Tc77yxgxABW+r91F33R5+r/dFh+8k7YLFp40P2kxv779Ne7L/v6/sK/X2/o7fvw5jvD8168f5QT9+36uv7af19n6+n7z/29X1R1/u1yerE79cmLe/X9vV95N6+v93X9917ez5AX89T+NXzJ2Ye50/09ryOvp5v0nQeTPxfzoPp6/k5vT1vqMv5TMl/OJ+pt+dZ9fX8r87npcXwvLTr9rPSrg88L62358v19Ty+Xzq/cOB/fmFfz3vsxfmYfzRWf88T7ev5q709r/bXzvcdeZ7v2wT2385D/gdCECnzeM8XcAAAAABJRU5ErkJggg=="></code>
-  <br />
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/hapijs/hapijs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <br />
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-</p>
-
-<!--<p align="center">
-  <a href="https://github.com/DJilanov/Faibler-Frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DJilanov&repo=-Frontend" />
-  </a>
-  <a href="https://github.com/DJilanov/Faibler-Backend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DJilanov&repo=-Backend" />
-  </a>
-</p>-->
